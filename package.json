@@ -8,9 +8,9 @@
     "tab-bar",
     "flex",
     "flexbox",
-    "ui",
+    "ui"
   ],
   "author": "nju33 <nju33.ki@gmail.com>",
   "repository": "nju33/atom-flex-tab-bar",
-  "license": "MIT",
+  "license": "MIT"
 }
