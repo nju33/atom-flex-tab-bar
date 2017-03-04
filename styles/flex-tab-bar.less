@@ -1,10 +1,14 @@
 .tab-bar {
   && {
     display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
   }
 
   &&& .tab {
-    max-width: none;
+    max-width: none !important;
+    min-width: 1px;
     flex: auto;
+    padding: 0;
   }
 }
