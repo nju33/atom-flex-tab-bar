@@ -1,0 +1,15 @@
+{
+  "name": "flex-tab",
+  "version": "0.0.0",
+  "description": "Flex the tabbar",
+  "keywords": [
+    "tab",
+    "tabs",
+    "flex",
+    "ui",
+    "flex-ui"
+  ],
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "repository": "nju33/atom-flex-tab",
+  "license": "MIT",
+}
